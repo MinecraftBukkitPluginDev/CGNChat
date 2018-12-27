@@ -1,0 +1,8 @@
+name: CGNChat
+version: 1.0
+main: cgnchat.Main
+author: Tillthen
+description: Chat tools.
+commands:
+  mute:
+    description: (un)Mute a player.

@@ -7,7 +7,7 @@ import ru.tehkode.permissions.bukkit.PermissionsEx;
 public class Chat {
 
 	public static void sendStaff(String message) {
-		Bukkit.broadcast("§f[Staff] §6Abstract §fSystem  §7"+message, "cgnchat.receivestaff");
+		Bukkit.broadcast("Â§f[Staff] Â§6Abstract Â§fSystem  Â§7"+message, "cgnchat.receivestaff");
 	}
 	
 }
